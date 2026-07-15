@@ -43,8 +43,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
