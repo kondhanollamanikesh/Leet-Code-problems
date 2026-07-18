@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0009-palindrome-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
