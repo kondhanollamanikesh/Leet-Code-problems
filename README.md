@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
+| [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
@@ -112,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
