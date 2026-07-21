@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
