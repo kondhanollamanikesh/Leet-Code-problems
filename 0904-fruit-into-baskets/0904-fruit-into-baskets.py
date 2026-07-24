@@ -8,7 +8,7 @@ class Solution:
             if fruits[right] not in my_dict:
                 my_dict[fruits[right]]=0
             my_dict[fruits[right]]+=1
-            while len(my_dict)>2:
+            if len(my_dict)>2:
                 if my_dict[fruits[left]]>0:
                     my_dict[fruits[left]]-=1
                 if my_dict[fruits[left]]==0:
