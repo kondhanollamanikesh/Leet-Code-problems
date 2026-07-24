@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
+| [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
