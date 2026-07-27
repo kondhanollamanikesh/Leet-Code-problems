@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
