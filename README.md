@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 ## Enumeration
