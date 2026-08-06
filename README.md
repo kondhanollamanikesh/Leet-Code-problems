@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -243,12 +244,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0199-binary-tree-right-side-view) |
 | [3310-remove-methods-from-project](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
