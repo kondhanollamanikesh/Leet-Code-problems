@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0136-single-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3310-remove-methods-from-project) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
