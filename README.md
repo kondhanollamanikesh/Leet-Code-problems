@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
