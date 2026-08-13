@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0860-lemonade-change) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
