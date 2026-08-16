@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
