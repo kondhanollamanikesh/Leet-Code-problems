@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
