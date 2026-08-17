@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
+| [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1140-stone-game-ii) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1140-stone-game-ii) |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
