@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -394,4 +399,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
