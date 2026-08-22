@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
