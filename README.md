@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 ## Enumeration
