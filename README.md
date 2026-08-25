@@ -297,10 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
