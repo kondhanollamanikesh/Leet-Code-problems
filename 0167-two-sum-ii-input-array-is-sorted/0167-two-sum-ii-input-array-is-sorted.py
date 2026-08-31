@@ -1,19 +1,21 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        left = 0
-        right = len(numbers) - 1
+        for i in range(len(numbers)):
+            checker = target - numbers[i]
 
-        while left < right:
+            left = i + 1
+            right = len(numbers) - 1
 
-            total = numbers[left] + numbers[right]
+            while left <= right:
+                mid = (left + right) // 2
 
-            if total == target:
-                return [left + 1, right + 1]
+                if numbers[mid] == checker:
+                    return [i + 1, mid + 1]
 
-            elif total < target:
-                left += 1
+                elif numbers[mid] < checker:
+                    left = mid + 1
 
-            else:
-                right -= 1
+                else:
+                    right = mid - 1
 
         return []
