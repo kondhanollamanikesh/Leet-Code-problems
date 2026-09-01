@@ -10,11 +10,17 @@ class Solution:
 
             return total
 
-        slow = n
-        fast = get_next(n)
+        num = n
+        seen = set()
 
-        while fast != 1 and slow != fast:
-            slow = get_next(slow)
-            fast = get_next(get_next(fast))
+        while True:
 
-        return fast == 1
+            if num == 1:
+                return True
+
+            if num in seen:
+                return False
+
+            seen.add(num)
+
+            num = get_next(num)
