@@ -12,6 +12,12 @@ class Solution:
         while len(priority_queue)!=0:
             wt,node=heapq.heappop(priority_queue)
             wt = -wt
+            if node == end_node:
+                return wt
+
+            # Ignore outdated heap entries
+            if wt < dist[node]:
+                continue
             for adj_node,dis in adj_lst[node]:
                 dist_trav=wt*dis
                 if dist_trav>dist[adj_node]:
