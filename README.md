@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
