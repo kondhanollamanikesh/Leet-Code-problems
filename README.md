@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -477,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -496,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [1845-seat-reservation-manager](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1845-seat-reservation-manager) |
 ## Bucket Sort
 |  |
@@ -545,4 +552,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
