@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0901-online-stock-span) |
 | [1845-seat-reservation-manager](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1845-seat-reservation-manager) |
 ## Queue
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
@@ -564,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
