@@ -9,24 +9,24 @@ class Solution:
         ans = 0
 
         def preorder(root):
+            ans = 0
+
+        def dfs(node):
             nonlocal ans
 
-            if root is None:
+            if node is None:
                 return 0, 0
 
-            left_sum, left_count = preorder(root.left)
-            right_sum, right_count = preorder(root.right)
+            left_sum, left_count = dfs(node.left)
+            right_sum, right_count = dfs(node.right)
 
-            sum1 = left_sum + right_sum + root.val
-            count = left_count + right_count + 1
+            total_sum = left_sum + right_sum + node.val
+            total_count = left_count + right_count + 1
 
-            avg = sum1 // count
-
-            if root.val == avg:
+            if node.val == total_sum // total_count:
                 ans += 1
 
-            return sum1, count
+            return total_sum, total_count
 
-        preorder(root)
-
+        dfs(root)
         return ans
