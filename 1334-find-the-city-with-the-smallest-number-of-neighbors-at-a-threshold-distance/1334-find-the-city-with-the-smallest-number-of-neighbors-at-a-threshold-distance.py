@@ -6,18 +6,19 @@ class Solution:
             adj_lst[u].append([v, w])
             adj_lst[v].append([u, w])
 
+        # 2D distance matrix
         dist = [[sys.maxsize for _ in range(n)] for _ in range(n)]
 
-        set1 = set()
-
+        # Distance from a city to itself = 0
         for i in range(n):
             dist[i][i] = 0
 
+        # Fill direct edges
         for u, v, w in edges:
             dist[u][v] = w
             dist[v][u] = w
 
-        # Floyd Warshall
+        # Floyd-Warshall
         for k in range(n):
             for i in range(n):
                 for j in range(n):
@@ -28,33 +29,20 @@ class Solution:
                             dist[i][k] + dist[k][j]
                         )
 
-        # Your set approach
-        for i in range(n):
+        # Find city with minimum reachable neighbors
+        result = -1
+        min_count = sys.maxsize
 
-            list1 = []
+        for i in range(n):
+            count = 0
 
             for j in range(n):
-
                 if i != j and dist[i][j] <= distanceThreshold:
-                    list1.append(j)
+                    count += 1
 
-            tuple1 = tuple(list1)
-
-            set1.add((i, tuple1))
-
-        # Find minimum
-        minimum = sys.maxsize
-        result = -1
-
-        for city, neighbors in set1:
-
-            count = len(neighbors)
-
-            if count < minimum:
-                minimum = count
-                result = city
-
-            elif count == minimum and city > result:
-                result = city
+            # >= makes us choose the larger index in case of tie
+            if count <= min_count:
+                min_count = count
+                result = i
 
         return result
