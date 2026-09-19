@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0202-happy-number) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0234-palindrome-linked-list) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
@@ -641,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
