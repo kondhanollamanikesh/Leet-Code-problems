@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3483-unique-3-digit-even-numbers) |
