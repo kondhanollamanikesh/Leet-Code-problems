@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3483-unique-3-digit-even-numbers) |
