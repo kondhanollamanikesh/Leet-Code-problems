@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0045-jump-game-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0046-permutations) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0200-number-of-islands) |
@@ -672,4 +676,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
