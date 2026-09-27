@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0743-network-delay-time) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
