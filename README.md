@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 ## Trie
 |  |
@@ -675,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 ## Shortest Path
 |  |
 | ------- |
