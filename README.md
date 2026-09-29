@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0191-number-of-1-bits) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0113-path-sum-ii) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0113-path-sum-ii) |
