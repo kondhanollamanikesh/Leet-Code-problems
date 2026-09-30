@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3310-remove-methods-from-project) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
