@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0877-stone-game) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0678-valid-parenthesis-string) |
+| [0752-open-the-lock](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0752-open-the-lock](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0802-find-eventual-safe-states) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0752-open-the-lock) |
 ## Pigeonhole Principle
 |  |
 | ------- |
