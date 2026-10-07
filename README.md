@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0733-flood-fill) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0733-flood-fill) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0700-search-in-a-binary-search-tree) |
