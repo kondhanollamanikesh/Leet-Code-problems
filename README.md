@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0802-find-eventual-safe-states) |
+| [0993-cousins-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0802-find-eventual-safe-states) |
+| [0993-cousins-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0993-cousins-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
