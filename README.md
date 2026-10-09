@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0202-happy-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0303-range-sum-query-immutable) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0203-remove-linked-list-elements) |
@@ -829,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
