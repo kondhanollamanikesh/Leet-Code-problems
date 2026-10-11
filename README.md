@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3499-maximize-active-section-with-trade-i) |
