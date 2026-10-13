@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1927-sum-game) |
+| [2390-removing-stars-from-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
