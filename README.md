@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
