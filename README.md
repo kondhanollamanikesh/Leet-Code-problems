@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1140-stone-game-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1861-rotating-the-box) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
