@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0733-flood-fill) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -773,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0787-cheapest-flights-within-k-stops) |
