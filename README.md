@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0131-palindrome-partitioning) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0231-power-of-two) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
