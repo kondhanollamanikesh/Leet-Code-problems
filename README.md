@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0433-minimum-genetic-mutation) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0542-01-matrix) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0977-squares-of-a-sorted-array) |
