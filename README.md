@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0342-power-of-four) |
+| [0491-non-decreasing-subsequences](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0491-non-decreasing-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0491-non-decreasing-subsequences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0525-contiguous-array) |
