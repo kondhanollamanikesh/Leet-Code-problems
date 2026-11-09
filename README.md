@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1463-cherry-pickup-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1463-cherry-pickup-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1514-path-with-maximum-probability) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1406-stone-game-iii) |
+| [1463-cherry-pickup-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1463-cherry-pickup-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1861-rotating-the-box) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
