@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0491-non-decreasing-subsequences) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0542-01-matrix) |
@@ -970,4 +972,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2336-smallest-number-in-infinite-set) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
