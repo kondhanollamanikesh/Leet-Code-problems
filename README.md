@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1463-cherry-pickup-ii) |
@@ -991,4 +993,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
