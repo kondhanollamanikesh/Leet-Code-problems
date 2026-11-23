@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0856-score-of-parentheses) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0787-cheapest-flights-within-k-stops) |
