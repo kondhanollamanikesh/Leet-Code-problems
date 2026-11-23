@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1845-seat-reservation-manager](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -932,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kondhanollamanikesh/Leet-Code-problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
